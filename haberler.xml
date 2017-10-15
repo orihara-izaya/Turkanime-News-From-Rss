@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+    <channel>
+        <title><![CDATA[  Animeler.NET - Anime / Drama / Manga Haberleri   ]]> Rss</title>
+        <link>https://animeler.net</link>
+        <description><![CDATA[     ]]></description>
+        <language>tr</language>
+        <lastBuildDate>Sat, 14 Oct 2017 16:58:58 +0000</lastBuildDate>
+        <atom:link href="https://animeler.net/haberler.xml" rel="self" />
+
+        <image>
+            <title><![CDATA[  Animeler.NET - Anime / Drama / Manga Haberleri   ]]></title>
+            <url>https://animeler.net/assets/img/logo.png</url>
+            <link>https://animeler.net</link>
+        </image>
+
+                    <item>
+                <title><![CDATA[  DARLING in the FRANXX İçin 5. Çifti Tanıtan Yeni Bir Tanıtım Videosu Yayınlandı!   ]]></title>
+                <link>https://animeler.net/haber/darling-in-the-franxx-icin-5-cifti-tanitan-yeni-bir-tanitim-videosu-yayinlandi</link>
+                <description><![CDATA[ DARLING in the FRANXX animesi için yeni çifti tanıtan yeni PV yayınlandı!   ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/b0607192f5156734f7768fb05d325897_1508000338-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/b0607192f5156734f7768fb05d325897_1508000338-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/darling-in-the-franxx-icin-5-cifti-tanitan-yeni-bir-tanitim-videosu-yayinlandi</guid>
+                <pubDate>Sat, 14 Oct 2017 16:58:58 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  DARLING in the FRANXX İçin Yeni Tanıtım Videosu Yayınlandı!   ]]></title>
+                <link>https://animeler.net/haber/darling-in-the-franxx-icin-yeni-tanitim-videosu-yayinlandi</link>
+                <description><![CDATA[ TV anime DARLING in the FRANXX için dördüncü çifti tanıtan yeni bir PV yayınlandı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/209daf9ba4189a3294653cb6d60a5271_1508000326-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/209daf9ba4189a3294653cb6d60a5271_1508000326-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/darling-in-the-franxx-icin-yeni-tanitim-videosu-yayinlandi</guid>
+                <pubDate>Sat, 14 Oct 2017 16:58:47 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Yeni My First Girlfriend is a Gal Yukana Yame Figürü!   ]]></title>
+                <link>https://animeler.net/haber/yeni-my-first-girlfriend-is-a-gal-yukana-yame-figuru</link>
+                <description><![CDATA[ "My First Girlfriend is a Gal" animesinden Yukana Yame'nin ölçekli bir figürü geliyor!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/08e7174a4db661635e020bf35441281b_1507997962-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/08e7174a4db661635e020bf35441281b_1507997962-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/yeni-my-first-girlfriend-is-a-gal-yukana-yame-figuru</guid>
+                <pubDate>Sat, 14 Oct 2017 16:18:50 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Peacemaker Kurogane Filminin 1. Bölümü İçin Bir Tanıtım Videosu Yayınlandı!    ]]></title>
+                <link>https://animeler.net/haber/peacemaker-kurogane-filminin-1-bolumu-icin-bir-tanitim-videosu-yayinlandi</link>
+                <description><![CDATA[ Birkaç gün önce yayınlanan görselin ardından, Nanae Chrono'nun Peacemaker Kurogane mangasına dayanan yaklaşmakta olan iki bölümlü anime film projesinin resmi web sitesi, ilk bölüm için 45 saniyelik bir tanıtım videosu yayınladı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/ad9ce108211f6db974d1ed4c3b265da8_1507997103-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/ad9ce108211f6db974d1ed4c3b265da8_1507997103-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/peacemaker-kurogane-filminin-1-bolumu-icin-bir-tanitim-videosu-yayinlandi</guid>
+                <pubDate>Sat, 14 Oct 2017 16:05:03 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  TV Anime LOST SONG İçin Yeni Bir PV Yayınlandı!   ]]></title>
+                <link>https://animeler.net/haber/tv-anime-lost-song-icin-yeni-bir-pv-yayinlandi</link>
+                <description><![CDATA[ TV anime LOST SONG için resmi web sitesi dört ana karakteri tanıtan iki dakikalık bir PV yayınladı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/7123f08606e6abde62d4c9109f83f288_1507995940-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/7123f08606e6abde62d4c9109f83f288_1507995940-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/tv-anime-lost-song-icin-yeni-bir-pv-yayinlandi</guid>
+                <pubDate>Sat, 14 Oct 2017 15:45:18 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Fairy Tail Karakterlerinin Çocukları Olsaydı   ]]></title>
+                <link>https://animeler.net/haber/fairy-tail-karakterlerinin-cocuklari-olsaydi</link>
+                <description><![CDATA[ Fairy tail karakterlerinin çocukları olsaydı... Hiro Mashima bu soruyu kaleme aldı. Keyifli okumalar.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/4881011f4eb300bd7e4384faa9e910c5_1508009303-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/4881011f4eb300bd7e4384faa9e910c5_1508009303-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/fairy-tail-karakterlerinin-cocuklari-olsaydi</guid>
+                <pubDate>Sat, 14 Oct 2017 11:28:02 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Genocidal Organ'ın Geno Stüdyosu 3 TV Anime Projesi Duyurdu   ]]></title>
+                <link>https://animeler.net/haber/genocidal-organin-geno-studyosu-3-tv-anime-projesi-duyurdu</link>
+                <description><![CDATA[ 1. projenin teaser görseli yayınlandı.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/b1f56f21738f34864661024065f76665_1507978850-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/b1f56f21738f34864661024065f76665_1507978850-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/genocidal-organin-geno-studyosu-3-tv-anime-projesi-duyurdu</guid>
+                <pubDate>Sat, 14 Oct 2017 11:01:04 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Ashita no Joe Manga, Bahar 2018'de Orignal Hikaye ile Yeni TV Anime'sine Esinleniyor.   ]]></title>
+                <link>https://animeler.net/haber/ashita-no-joe-manga-bahar-2018de-orignal-hikaye-ile-yeni-tv-animesine-esinleniyor</link>
+                <description><![CDATA[ Moriyama, manga'nın 50. yıldönümünü kutlamak için yer altı boksörüyle ilgili hikayeyi yönetiyor.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/ba65f12c4b0def51418259a19fbe39f4_1507978419-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/ba65f12c4b0def51418259a19fbe39f4_1507978419-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/ashita-no-joe-manga-bahar-2018de-orignal-hikaye-ile-yeni-tv-animesine-esinleniyor</guid>
+                <pubDate>Sat, 14 Oct 2017 10:53:40 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  İkinci Fate/stay night Heaven's Feel Filmi   ]]></title>
+                <link>https://animeler.net/haber/ikinci-fatestay-night-heavens-feel-filmi</link>
+                <description><![CDATA[ Fate/stay night: Heaven's Feel II. lost butterfly.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/e9cbc60b21859e79eb5d6004c6a97078_1507977714-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/e9cbc60b21859e79eb5d6004c6a97078_1507977714-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/ikinci-fatestay-night-heavens-feel-filmi</guid>
+                <pubDate>Sat, 14 Oct 2017 10:41:54 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Towa No Quon Anime İncelemesi   ]]></title>
+                <link>https://animeler.net/haber/towa-no-quon-anime-incelemesi</link>
+                <description><![CDATA[ 2011 yılından Towa no Quon 6 Animesinin İncelemesi Sizlerle, Keyifli Okumalar...  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/eddc1d7b8649c0d07eb99abae117cd50_1507960059-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/eddc1d7b8649c0d07eb99abae117cd50_1507960059-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/towa-no-quon-anime-incelemesi</guid>
+                <pubDate>Fri, 13 Oct 2017 19:07:36 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  2017'de Çıkan Taptaze 17 Live-Action Filmi   ]]></title>
+                <link>https://animeler.net/haber/2017de-cikan-taptaze-17-live-action-filmi</link>
+                <description><![CDATA[ Japonlar her ne kadar Anime & Mangaları filmlere dökmeye çalışıyor olsalarda, bence bu işi tam olarak beceremiyorlar. Japonlarda bunun farkında ve yapımlarını başka şirketlere yaptırmak istemekteler ama onlarda nafile en son yapılan death note netflix yapımındaki hüsranı hepiniz görmüşsünüzdür. Bundan sonra yapılacak live actionların daha dikkatli yapılmasını temenni eder, sizlere bu sene çıkan yapımları tanıtmak isterim.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/13/9c345873f0ddcc79240e5ea39299bddf_1507879023-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/13/9c345873f0ddcc79240e5ea39299bddf_1507879023-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/2017de-cikan-taptaze-17-live-action-filmi</guid>
+                <pubDate>Fri, 13 Oct 2017 07:17:03 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Dagashi Kashi 2 Animesine Yeni Bir Karakter Geliyor!   ]]></title>
+                <link>https://animeler.net/haber/dagashi-kashi-2-animesine-yeni-bir-karakter-geliyor</link>
+                <description><![CDATA[ Dagashi Kashi 2 animesine yeni gelen karakter için bir tanıtım videosu yayınlandı. Keyifli okumalar.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/12/e2144536e4c6652d1d1c49060cb34e4a_1507832364-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/12/e2144536e4c6652d1d1c49060cb34e4a_1507832364-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/dagashi-kashi-2-animesine-yeni-bir-karakter-geliyor</guid>
+                <pubDate>Thu, 12 Oct 2017 18:15:18 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[   Neden Big Fish and Begonia İzlemeliyiz?   ]]></title>
+                <link>https://animeler.net/haber/neden-big-fish-and-begonia-izlemeliyiz</link>
+                <description><![CDATA[ Sıcacık bir anime izlemek isteyenler için; dramın ve doğaüstü türünün, benzersiz bir hikaye ile buluşması.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/11/9b67007eca29173fbafd9a305d841acc_1507756613-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/11/9b67007eca29173fbafd9a305d841acc_1507756613-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/neden-big-fish-and-begonia-izlemeliyiz</guid>
+                <pubDate>Wed, 11 Oct 2017 21:16:53 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Rainbow Days'in Live-Action Filmi Geliyor!   ]]></title>
+                <link>https://animeler.net/haber/rainbow-daysin-live-action-filmi-geliyor</link>
+                <description><![CDATA[ Minami Mizuno'nun Rainbow Days (Nijiiro Days) adlı shōjo mangasına dayanan bir live-action film uyarlamasının yapılacağı açıklandı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/10/08cf8af3b25fef77724c6d7eafe40ece_1507658619-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/10/08cf8af3b25fef77724c6d7eafe40ece_1507658619-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/rainbow-daysin-live-action-filmi-geliyor</guid>
+                <pubDate>Tue, 10 Oct 2017 18:02:25 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  TV Anime Natsume Yuujinchou'nun Filmi Geliyor!   ]]></title>
+                <link>https://animeler.net/haber/tv-anime-natsume-yuujinchounun-filmi-geliyor</link>
+                <description><![CDATA[ Sevilen manga serisi Natsume Yuujinchou için yapılan genel bir etkinlikte Aki no Katarai (Fall Chat) başlıklı bir filmin yapım aşamasında olduğu açıklandı!   ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/10/d104320cc89c73e5e847cdc7a39ec733_1507651178-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/10/d104320cc89c73e5e847cdc7a39ec733_1507651178-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/tv-anime-natsume-yuujinchounun-filmi-geliyor</guid>
+                <pubDate>Tue, 10 Oct 2017 15:59:38 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  TV Anime Starmyu'nun Yeni Bir OVA'sı Ve 3. Sezonu Geliyor!   ]]></title>
+                <link>https://animeler.net/haber/tv-anime-starmyunun-yeni-bir-ovasi-ve-3-sezonu-geliyor</link>
+                <description><![CDATA[ Pazar günü düzenlenen Starmyu Fes 2017'de serinin Ekim 2018'de yeni bir OVA'sının ve 2019'da 3. bir sezonun başlamasının planlandığı açıklandı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/10/d9b2e79d4a3c034f441195c0317eab6e_1507649532-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/10/d9b2e79d4a3c034f441195c0317eab6e_1507649532-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/tv-anime-starmyunun-yeni-bir-ovasi-ve-3-sezonu-geliyor</guid>
+                <pubDate>Tue, 10 Oct 2017 15:31:04 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Killing Beats Tanıtım   ]]></title>
+                <link>https://animeler.net/haber/killing-beats-tanitim</link>
+                <description><![CDATA[ Yarı hayvan güçlerine sahip olan insanlara yaptırılan düellolar... Keyifli okumalar.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/10/272bef2a35d5a323b5dee8e21a7bb937_1507649253-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/10/272bef2a35d5a323b5dee8e21a7bb937_1507649253-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/killing-beats-tanitim</guid>
+                <pubDate>Tue, 10 Oct 2017 15:15:53 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Dragon Ball Super Crunchyroll Sitesini Çökertti!   ]]></title>
+                <link>https://animeler.net/haber/dragon-ball-super-crunchyroll-sitesini-cokertti</link>
+                <description><![CDATA[ Uzun süredir beklenen Goku ve Jiren savaşı ünlü anime yayın sitesi Crunchyroll çökertti.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/10/e412998d675fc43970b3aa650c0ad9e3_1507639222-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/10/e412998d675fc43970b3aa650c0ad9e3_1507639222-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/dragon-ball-super-crunchyroll-sitesini-cokertti</guid>
+                <pubDate>Tue, 10 Oct 2017 12:40:22 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Attack on Titan - Lost Girls   ]]></title>
+                <link>https://animeler.net/haber/attack-on-titan-lost-girls</link>
+                <description><![CDATA[ Manganın 24-26 ciltleri satışa sunulacak.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/09/0b3d6ca2c6988dd692b25a41a9d84371_1507578955-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/09/0b3d6ca2c6988dd692b25a41a9d84371_1507578955-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/attack-on-titan-lost-girls</guid>
+                <pubDate>Mon, 09 Oct 2017 19:42:35 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  BİR DE BURADAN BAKIN: Gintama'nın Arka Planda İşleyen Hikayesi   ]]></title>
+                <link>https://animeler.net/haber/bir-de-buradan-bakin-gintamanin-arka-planda-isleyen-hikayesi</link>
+                <description><![CDATA[ Gintama'nın Arka Planda İşleyen Hikayesi  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/14/f46c2a0e7f76ebf5ad3f16369d9f64b9_1507983638-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/14/f46c2a0e7f76ebf5ad3f16369d9f64b9_1507983638-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/bir-de-buradan-bakin-gintamanin-arka-planda-isleyen-hikayesi</guid>
+                <pubDate>Mon, 09 Oct 2017 19:27:39 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  God Eater 3'ün Çıkacağı Onaylandı   ]]></title>
+                <link>https://animeler.net/haber/god-eater-3un-cikacagi-onaylandi</link>
+                <description><![CDATA[ Her ne kadar çok kısıtlı bilgi verilmiş olsa da bu da bir şey diyoruz  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/08/403ae4db530ffe0a65403ba97c42137e_1507472064-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/08/403ae4db530ffe0a65403ba97c42137e_1507472064-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/god-eater-3un-cikacagi-onaylandi</guid>
+                <pubDate>Sun, 08 Oct 2017 14:14:25 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Newtype Anime Ödülleri 2016-2017   ]]></title>
+                <link>https://animeler.net/haber/newtype-anime-odulleri-2016-2017</link>
+                <description><![CDATA[ 2016-2017 Newtype anime ödüllerinin kazananları ilan edildi.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/08/1917b3fa58190219fcaedf8dc50b5588_1507455901-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/08/1917b3fa58190219fcaedf8dc50b5588_1507455901-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/newtype-anime-odulleri-2016-2017</guid>
+                <pubDate>Sun, 08 Oct 2017 09:31:24 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Türkçe Altyazılı "Inuyashiki" Fragmanı   ]]></title>
+                <link>https://animeler.net/video/turkce-altyazili-inuyashiki-fragmani</link>
+                <description><![CDATA[ 13 Ekim 2017'de ilk bölümüyle yayınlanacak olan Inuyashiki animesinin resmi web sitesinde yayınlanan fragmanlarının, tarafımızca Türkçe altyazı eklenmiş hâli.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/08/f55cfe0d45b680c3a7c15f08203b4224_1507445044-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/08/f55cfe0d45b680c3a7c15f08203b4224_1507445044-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/turkce-altyazili-inuyashiki-fragmani</guid>
+                <pubDate>Sun, 08 Oct 2017 06:44:05 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Manga Dorei-ku: Boku to 23-nin no Dorei Anime Oluyor!   ]]></title>
+                <link>https://animeler.net/haber/manga-dorei-ku-boku-to-23-nin-no-dorei-anime-oluyor</link>
+                <description><![CDATA[ Dorei-ku: Boku to 23-nin no Dorei'in bir anime uyarlamasının yapılacağı açıklandı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/e97cffa0761bd1e7dee0b8ddc2daa03a_1507395449-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/e97cffa0761bd1e7dee0b8ddc2daa03a_1507395449-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/manga-dorei-ku-boku-to-23-nin-no-dorei-anime-oluyor</guid>
+                <pubDate>Sat, 07 Oct 2017 16:48:44 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Yeni Naruto Nendoroid Sakura Haruno Figürü!   ]]></title>
+                <link>https://animeler.net/haber/yeni-naruto-nendoroid-sakura-haruno-figuru</link>
+                <description><![CDATA[ Popüler anime serisi olan "Naruto Shippuden" den Sakura Haruno'nun yeni bir Nendoroid figürü geliyor! 
+
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/331539e191adbd764dc6d0162056993e_1507392254-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/331539e191adbd764dc6d0162056993e_1507392254-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/yeni-naruto-nendoroid-sakura-haruno-figuru</guid>
+                <pubDate>Sat, 07 Oct 2017 16:04:14 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  K: Seven Stories İçin Yeni Bir Görsel Ve Tanıtım Videosu Yayınlandı!    ]]></title>
+                <link>https://animeler.net/haber/k-seven-stories-icin-yeni-bir-gorsel-ve-tanitim-videosu-yayinlandi</link>
+                <description><![CDATA[ K: Seven Stories için resmi web sitesi, yeni bir görsel ve yeni bir PV yayınladı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/be69afc4ac03e878c2d7558f301bc86a_1507391457-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/be69afc4ac03e878c2d7558f301bc86a_1507391457-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/k-seven-stories-icin-yeni-bir-gorsel-ve-tanitim-videosu-yayinlandi</guid>
+                <pubDate>Sat, 07 Oct 2017 15:50:01 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Resmi olarak "God Eater 3" olarak ortaya çıkarılan yeni "God Eater" Projesi   ]]></title>
+                <link>https://animeler.net/haber/resmi-olarak-god-eater-3-olarak-ortaya-cikarilan-yeni-god-eater-projesi</link>
+                <description><![CDATA[ Franchise ayrıca ilk akıllı telefon RPG'sine de sahip.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/8ac0e519628193adc7d68086fc791014_1507391183-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/8ac0e519628193adc7d68086fc791014_1507391183-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/resmi-olarak-god-eater-3-olarak-ortaya-cikarilan-yeni-god-eater-projesi</guid>
+                <pubDate>Sat, 07 Oct 2017 15:46:24 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Crunchyroll "GARO: Vanishing Line" Anime'yi Duyurdu   ]]></title>
+                <link>https://animeler.net/haber/crunchyroll-garo-vanishing-line-animeyi-duyurdu</link>
+                <description><![CDATA[ Funimation, New York Comic Con panelinde, serinin bir SimulDub sunmayı planladığını açıkladı.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/b35301e500a7bc1dfe661f262959137a_1507390774-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/b35301e500a7bc1dfe661f262959137a_1507390774-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/crunchyroll-garo-vanishing-line-animeyi-duyurdu</guid>
+                <pubDate>Sat, 07 Oct 2017 15:39:34 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Nisio Isin Kaleminden  "Juni Taisen" Roman   ]]></title>
+                <link>https://animeler.net/haber/nisio-isin-kaleminden-juni-taisen-roman</link>
+                <description><![CDATA[ "Juni Taisen vs Juni Taisen" 12 Aralık 2018'de Japonya'daki kitapçılarda çıkacak.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/08/3a40b45c5efcaf2f9ae147d4db0c6d73_1507451262-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/08/3a40b45c5efcaf2f9ae147d4db0c6d73_1507451262-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/nisio-isin-kaleminden-juni-taisen-roman</guid>
+                <pubDate>Sat, 07 Oct 2017 15:27:42 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Kinky Psycho-Thriller için Hazırlanın "Slave District - Me and 23 Slaves" Anime Uyarlaması Açıklandı   ]]></title>
+                <link>https://animeler.net/haber/kinky-psycho-thriller-icin-hazirlanin-slave-district-me-and-23-slaves-anime-uyarlamasi-aciklandi</link>
+                <description><![CDATA[ Kinky Psycho-Thriller için Hazırlanın ""Slave District - Me and 23 Slaves"" Anime Uyarlaması Açıklandı.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/efad3efaf1dabe52bea7e6ed962406e2_1507389610-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/efad3efaf1dabe52bea7e6ed962406e2_1507389610-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/kinky-psycho-thriller-icin-hazirlanin-slave-district-me-and-23-slaves-anime-uyarlamasi-aciklandi</guid>
+                <pubDate>Sat, 07 Oct 2017 15:20:10 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Ousama Game The Animation (Sıcak Sıcak) İncelemesi   ]]></title>
+                <link>https://animeler.net/haber/ousama-game-the-animation-sicak-sicak-incelemesi</link>
+                <description><![CDATA[ Ousama Game The Animation animesinin ilk bölüm incelemesi. Korku animesi sevenler buraya...  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/732298d9d69aea424235c4fd18722b0b_1507376874-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/732298d9d69aea424235c4fd18722b0b_1507376874-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/ousama-game-the-animation-sicak-sicak-incelemesi</guid>
+                <pubDate>Sat, 07 Oct 2017 11:47:55 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  World End Anime İncelemesi   ]]></title>
+                <link>https://animeler.net/haber/world-end-anime-incelemesi</link>
+                <description><![CDATA[   World End Anime İncelemesi Sizlerle. Keyifli Okumalar…  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/06/542b048011501abcfc0a65eef27672f3_1507332275-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/06/542b048011501abcfc0a65eef27672f3_1507332275-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/world-end-anime-incelemesi</guid>
+                <pubDate>Fri, 06 Oct 2017 22:30:33 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[   I Fall in Love With You Through a Robot Anime Filmine Ait Kısa Bir PV Yayınlandı   ]]></title>
+                <link>https://animeler.net/haber/i-fall-in-love-with-you-through-a-robot-anime-filmine-ait-kisa-bir-pv-yayinlandi</link>
+                <description><![CDATA[  Yusuke Yamada'nı romanından uyarlanan anime filmi için kısa bir PV yayınladı... Keyifli okumalar.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/08/97dc2646f47a7b6dc96df51074819711_1507456051-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/08/97dc2646f47a7b6dc96df51074819711_1507456051-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/i-fall-in-love-with-you-through-a-robot-anime-filmine-ait-kisa-bir-pv-yayinlandi</guid>
+                <pubDate>Fri, 06 Oct 2017 17:22:43 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Türkçe Altyazılı "Houseki no Kuni" Fragmanları   ]]></title>
+                <link>https://animeler.net/video/turkce-altyazili-houseki-no-kuni-fragmanlari</link>
+                <description><![CDATA[ 7 Ekim 2017'de ilk bölümüyle yayınlanacak olan Houseki no Kuni animesinin resmi web sitesinde yayınlanan fragmanılarının, tarafımızca Türkçe altyazı eklenmiş hâli.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/06/8fe37d2044328fc2bd9e45f6cb04c0c4_1507286283-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/06/8fe37d2044328fc2bd9e45f6cb04c0c4_1507286283-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/turkce-altyazili-houseki-no-kuni-fragmanlari</guid>
+                <pubDate>Fri, 06 Oct 2017 10:38:03 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Türkçe Altyazılı "Love Live! Sunshine!! 2. Sezon" Fragmanı    ]]></title>
+                <link>https://animeler.net/video/turkce-altyazili-love-live-sunshine-2-sezon-fragmani</link>
+                <description><![CDATA[ 7 Ekim 2017'de ilk bölümüyle yayınlanacak olan Love Live! Sunshine!! serisinin 2. sezonuna ait, resmi web sitesinde yayınlanan ilk fragmanının, tarafımızca Türkçe altyazı eklenmiş hâli.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/07/77cadfd949ca87e0b0415c4a969d4774_1507374762-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/07/77cadfd949ca87e0b0415c4a969d4774_1507374762-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/turkce-altyazili-love-live-sunshine-2-sezon-fragmani</guid>
+                <pubDate>Thu, 05 Oct 2017 17:31:39 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  "Beatless"  Sci-Fi Animesi   ]]></title>
+                <link>https://animeler.net/haber/beatless-sci-fi-animesi</link>
+                <description><![CDATA[ Japon bloglar Satoshi Hase ve redjuice'den (Guilty Crown, Project Itoh anime) bilim-kurgu dizisine dayanan bir TV animasyonunun 2018 kışında yayınlanacağını söylüyor.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/05/5de3ef451f6c0266b12575ce649715b0_1507224380-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/05/5de3ef451f6c0266b12575ce649715b0_1507224380-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/beatless-sci-fi-animesi</guid>
+                <pubDate>Thu, 05 Oct 2017 17:26:20 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  "Tokyo Ghoul:Re" TV Animesi 2018 İçin Planlandı   ]]></title>
+                <link>https://animeler.net/haber/tokyo-ghoulre-tv-animesi-2018-icin-planlandi</link>
+                <description><![CDATA[  Tokyo Ghoul:Re'nin  yeni duyurulan 2018 TV anime uyarlaması için tanıtım hazırlandı.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/05/7f218a7c387f0cbb821ab644cc3bbfbb_1507223551-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/05/7f218a7c387f0cbb821ab644cc3bbfbb_1507223551-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/tokyo-ghoulre-tv-animesi-2018-icin-planlandi</guid>
+                <pubDate>Thu, 05 Oct 2017 17:12:32 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Fan Yapımı Muhteşem Game of Thrones Açılışı!   ]]></title>
+                <link>https://animeler.net/video/fan-yapimi-muhtesem-game-of-thrones-acilisi</link>
+                <description><![CDATA[ Fan yapımı muhteşem bir açılış!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/05/88f6d756ae1424619925eb8019194322_1507221373-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/05/88f6d756ae1424619925eb8019194322_1507221373-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/fan-yapimi-muhtesem-game-of-thrones-acilisi</guid>
+                <pubDate>Thu, 05 Oct 2017 16:36:14 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Ekim Sayımızda Aşka Geldik!   ]]></title>
+                <link>https://animeler.net/haber/ekim-sayimizda-aska-geldik</link>
+                <description><![CDATA[ Türkanime TV E-Dergi'nin Ekim sayısında shounen ai ve shoujo ai yapımları masaya yatırdık ve ortaya kapsamlı bir dosya çıkardık.   ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/05/598ad1893279469ae0f677d2b816eabb_1507203150-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/05/598ad1893279469ae0f677d2b816eabb_1507203150-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/ekim-sayimizda-aska-geldik</guid>
+                <pubDate>Thu, 05 Oct 2017 11:30:28 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  URAHARA Animesinin Kadrosu İle Soru-Cevap!   ]]></title>
+                <link>https://animeler.net/haber/urahara-animesinin-kadrosu-ile-soru-cevap</link>
+                <description><![CDATA[ Yakında başlayacak olan URAHARA animesi hakkında animenin kadrosu ile  bir Q&A (Soru-Cevap) yapıldı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/04/75798dc97759700acdabdb08b673501e_1507140313-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/04/75798dc97759700acdabdb08b673501e_1507140313-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/urahara-animesinin-kadrosu-ile-soru-cevap</guid>
+                <pubDate>Wed, 04 Oct 2017 18:00:49 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  March Comes in Like a Lion İçin Yeni Bir PV Yayınlandı!   ]]></title>
+                <link>https://animeler.net/haber/march-comes-in-like-a-lion-icin-yeni-bir-pv-yayinlandi</link>
+                <description><![CDATA[ March Comes in Like a Lion için iki dakikalık yeni bir PV yayınlandı!  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/04/aba6ebab54c1de8e076930e6d76e7cb2_1507136976-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/04/aba6ebab54c1de8e076930e6d76e7cb2_1507136976-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/march-comes-in-like-a-lion-icin-yeni-bir-pv-yayinlandi</guid>
+                <pubDate>Wed, 04 Oct 2017 17:09:36 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Bungo Stray Dogs: Dead Apple Yeni Karakteri Tatsuhiko Shibusawa'ya Sunuyor   ]]></title>
+                <link>https://animeler.net/haber/bungo-stray-dogs-dead-apple-yeni-karakteri-tatsuhiko-shibusawaya-sunuyor</link>
+                <description><![CDATA[ Film, 2018 baharının başında başlayacak.
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/04/1ca1d3796e1f564c848f3a0955f35372_1507132661-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/04/1ca1d3796e1f564c848f3a0955f35372_1507132661-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/bungo-stray-dogs-dead-apple-yeni-karakteri-tatsuhiko-shibusawaya-sunuyor</guid>
+                <pubDate>Wed, 04 Oct 2017 15:57:41 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[   "URAHARA" Anime Crunchyroll'da Yayınlanmaya Başladı!   ]]></title>
+                <link>https://animeler.net/haber/urahara-anime-crunchyrollda-yayinlanmaya-basladi</link>
+                <description><![CDATA[ 
+12 bölümlü dizi bugün başladı.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/04/e40671cd9244a516800bc7282424c213_1507130845-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/04/e40671cd9244a516800bc7282424c213_1507130845-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/urahara-anime-crunchyrollda-yayinlanmaya-basladi</guid>
+                <pubDate>Wed, 04 Oct 2017 15:27:25 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  TV Anime B-PROJECT'in 2. Sezonu Geliyor!   ]]></title>
+                <link>https://animeler.net/haber/tv-anime-b-projectin-2-sezonu-geliyor</link>
+                <description><![CDATA[ 1 Ekim'de Tokyo'daki Nakano Zero Main Hall'da düzenlenen "B-PROJECT 2. Yıldönümü: DARK in the HALLOWEEEEN" etkinliğinde B-PROJECT'in 2. sezonunun geleceği duyuruldu!   ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/03/86347f9128e76d3bba96056f753ed12d_1507064399-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/03/86347f9128e76d3bba96056f753ed12d_1507064399-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/tv-anime-b-projectin-2-sezonu-geliyor</guid>
+                <pubDate>Tue, 03 Oct 2017 21:00:00 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Televizyon Anime EVIL OR LIVE Ekim Ayında Başlayacak   ]]></title>
+                <link>https://animeler.net/haber/televizyon-anime-evil-or-live-ekim-ayinda-baslayacak</link>
+                <description><![CDATA[ Televizyon Anime EVIL OR LIVE Ekim Ayında Başlayacak  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/03/fceb6dcd68ecd5c4ecd0c066ed070df9_1507057139-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/03/fceb6dcd68ecd5c4ecd0c066ed070df9_1507057139-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/televizyon-anime-evil-or-live-ekim-ayinda-baslayacak</guid>
+                <pubDate>Tue, 03 Oct 2017 18:58:59 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Juni Taisen'in Çalışanları Ve Oyuncuları İle Tanışın   ]]></title>
+                <link>https://animeler.net/haber/juni-taisenin-calisanlari-ve-oyunculari-ile-tanisin</link>
+                <description><![CDATA[ Hafif romandan anime dizisine kadar, bu büyük kavgada bazı büyük isimler var!
+  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/03/d4c7a06e14f42b77b55ee7fc40fb4a7a_1507055054-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/03/d4c7a06e14f42b77b55ee7fc40fb4a7a_1507055054-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/juni-taisenin-calisanlari-ve-oyunculari-ile-tanisin</guid>
+                <pubDate>Tue, 03 Oct 2017 18:23:13 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Türkçe Altyazılı "Ousama Game The Animation" Fragmanı   ]]></title>
+                <link>https://animeler.net/video/turkce-altyazili-ousama-game-the-animation-fragmani</link>
+                <description><![CDATA[ 5 Ekim 2017'de ilk bölümüyle yayınlanacak olan Ousama Game The Animation animesinin, resmi web sitesinde yayınlanan ilk fragmanının, tarafımızca Türkçe altyazı eklenmiş hâli.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/04/6f3adec5f575332119c0a40e8117f5f4_1507122632-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/04/6f3adec5f575332119c0a40e8117f5f4_1507122632-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/turkce-altyazili-ousama-game-the-animation-fragmani</guid>
+                <pubDate>Tue, 03 Oct 2017 17:18:51 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Hakata Tonkotsu Ramens Animesinin PV'si Yayınlandı!   ]]></title>
+                <link>https://animeler.net/haber/hakata-tonkotsu-ramens-animesinin-pvsi-yayinlandi</link>
+                <description><![CDATA[ Resmi web sitesi Hakata Tonkotsu Ramens adlı animeye ait 80 saniyelik bir PV yayınladı. Keyifli okumalar.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/03/eb4ab6e958f79f6bf223e8296e67920d_1507042675-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/03/eb4ab6e958f79f6bf223e8296e67920d_1507042675-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/hakata-tonkotsu-ramens-animesinin-pvsi-yayinlandi</guid>
+                <pubDate>Tue, 03 Oct 2017 14:55:03 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Nier: Automata Tanıtım   ]]></title>
+                <link>https://animeler.net/haber/nier-automata-tanitim</link>
+                <description><![CDATA[ Keyifli, sürükleyici ve göz alıcı.
+
+Kesinlikle hak ettiği yeri edinmiş, Square Enix’in son zamanlarda çıkardığı en başarılı oyunlardan biri.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/03/b91eba96d51644cb6972bc8e3ba4c34f_1507025907-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/03/b91eba96d51644cb6972bc8e3ba4c34f_1507025907-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/haber/nier-automata-tanitim</guid>
+                <pubDate>Tue, 03 Oct 2017 10:18:27 +0000</pubDate>
+            </item>
+                    <item>
+                <title><![CDATA[  Türkçe Altyazılı "Sengoku Night Blood" Fragmanı   ]]></title>
+                <link>https://animeler.net/video/turkce-altyazili-sengoku-night-blood-fragmani</link>
+                <description><![CDATA[ 3 Ekim 2017'de ilk bölümüyle yayınlanacak olan Sengoku Night Blood animesinin, resmi web sitesinde yayınlanan ilk fragmanının, tarafımızca Türkçe altyazı eklenmiş hâli.  ]]></description>
+                <media:thumbnail url='https://animeler.net/upload/media/posts/2017-10/05/3e6c0f824a65d8fa50eebc28cb0ca2cf_1507199168-b.jpg'  data-url='https://animeler.net/upload/media/posts/2017-10/05/3e6c0f824a65d8fa50eebc28cb0ca2cf_1507199168-b.jpg'  height='650' width='370' />
+                <guid isPermaLink="false">https://animeler.net/video/turkce-altyazili-sengoku-night-blood-fragmani</guid>
+                <pubDate>Mon, 02 Oct 2017 23:50:56 +0000</pubDate>
+            </item>
+            </channel>
+</rss>
